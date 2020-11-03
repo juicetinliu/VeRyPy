@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import re
-from VeRyPy.shared_visualize import visualize_procedure,VISUALIZE
+from shared_visualize import visualize_procedure,VISUALIZE
 from VeRyPy.util  import sol2routes
 
 MAKE_ANIM = True
