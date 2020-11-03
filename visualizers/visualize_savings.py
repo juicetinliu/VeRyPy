@@ -2,7 +2,7 @@
 
 import re
 from shared_visualize import visualize_procedure,VISUALIZE
-from VeRyPy.util  import sol2routes
+from util import sol2routes
 
 MAKE_ANIM = True
 SHOW_INFEASIBLE = True
